@@ -1,26 +1,4 @@
-id_Estacion;id_Dato (FK);Fecha;Dia;Mes;Anio;"Temperatura 
-Media [C]";"Temperatura 
-Maxima [C]";"Temperatura 
-Minima [C]";"Temperatura 
-Media [F]";"Temperatura 
-Maxima [F]";"Temperatura 
-Minima [F]";Lluvia [mm];"Velocidad
-Media [km/h]";"Velocidad
-Maxima [km/h]";"Direccion
-Dominante";"HR%
-Media";"HR%
-Maxima";"HR%
-Minima";"Indice de Calor
-Media [C]";"Indice de Calor
-Maxima [C]";"Indice de Calor
-Minima [C]";"Indice de Calor
-Media [F]";"Indice de Calor
-Maxima [F]";"Indice de Calor
-Minima [F]";"Radiacion
-Global [w/m2]";"Radiacion
-Global Max [w/m2]";UV Indice;UV Dosis;"UV Indice
-Maximo";"Evatranspiracion
-ET [mm] ";Punto de Rocio [Td] Media;Punto de Rocio [Td] Maxima;Punto de Rocio [Td] Minima
+id_Estacion;id_Dato (FK);Fecha;Dia;Mes;Anio;Temperatura Media [C];Temperatura Maxima [C];Temperatura Minima [C];Temperatura Media [F];Temperatura Maxima [F];Temperatura Minima [F];Lluvia [mm];Velocidad Media [km/h];Velocidad Maxima [km/h];Direccion Dominante;HR% Media;HR% Maxima;HR% Minima;Indice de Calor Media [C];Indice de Calor Maxima [C];Indice de Calor Minima [C];Indice de Calor Media [F];Indice de Calor Maxima [F];Indice de Calor Minima [F];Radiacion Global [w/m2];Radiacion Global Max [w/m2];UV Indice;UV Dosis;UV Indice Maximo;Evatranspiracion ET [mm] ;Punto de Rocio [Td] Media;Punto de Rocio [Td] Maxima;Punto de Rocio [Td] Minima
 EEA01;1;1/8/2011;1;8;2011;;;;32;32;32;;;;;;;;-8,78;-8,78;-8,78;16,19;16,19;16,19;;;;;;;-20;-20;-20
 EEA01;2;2/8/2011;2;8;2011;11,1;14,1;6,1;51,98;57,38;42,98;0;4,3;40,2;SSW;55;61;35;35,33;29,58;39,26;95,59;85,25;102,66;452;455;;;;;2,1;6,3;-6,9
 EEA01;3;3/8/2011;3;8;2011;6,9;12,7;1,1;44,42;54,86;33,98;0;3,5;24,1;SW;56;80;34;45,8;27,01;49,04;114,44;80,62;120,27;535;554;;;;;-1,9;8,7;-12,1
