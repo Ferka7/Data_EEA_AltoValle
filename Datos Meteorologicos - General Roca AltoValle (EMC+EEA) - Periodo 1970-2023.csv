@@ -1,4 +1,4 @@
-Fecha;Dia;Mes;Año;Temperatura_Abrigo_150cm_Media;Temperatura_Abrigo_150cm_Maxima;Temperatura_Abrigo_150cm_Minima;Precipitacion_Pluviometrica;Granizo;Nieve;Helada;Clasificacion Heladas;Heliofania_Efectiva;Heliofania_Relativa;Tesion_Vapor_Media;Humedad_Media;Rocio_Medio;Velocidad_Viento_200cm_Media;Direccion_Viento_200cm;Velocidad_Viento_1000cm_Media;Radiacion_Global;Evapotranspiracion_Potencial;Horas_Frio
+Fecha;Dia;Mes;anio;Temperatura_Abrigo_150cm_Media;Temperatura_Abrigo_150cm_Maxima;Temperatura_Abrigo_150cm_Minima;Precipitacion_Pluviometrica;Granizo;Nieve;Helada;Clasificacion Heladas;Heliofania_Efectiva;Heliofania_Relativa;Tesion_Vapor_Media;Humedad_Media;Rocio_Medio;Velocidad_Viento_200cm_Media;Direccion_Viento_200cm;Velocidad_Viento_1000cm_Media;Radiacion_Global;Evapotranspiracion_Potencial;Horas_Frio
 1/1/1970;1;1;1970;26,05;34,2;17,9;11,5;0;0;0;0;10,3;69;23,4;64;19,8;4;;5;25.3;5.7;0,00
 2/1/1970;2;1;1970;24,75;31,3;18,2;0;0;0;0;0;8,5;57;21,1;70;18;11,2;;14;22.3;5.8;0,00
 3/1/1970;3;1;1970;16,40;20,9;11,9;8,5;0;0;0;0;0;0;15,2;90;13,2;4;;5;8.1;2.0;0,00
